@@ -12,7 +12,7 @@ shapedata - A Library to modify images and the corresponding landmarks
 
    _api/_build/shapedata/shapedata
 
-   GitHub <https://github.com/justusschock/shapedata>
+   GitHub <https://github.com/justusperillieux/shapedata>
 
 
 
